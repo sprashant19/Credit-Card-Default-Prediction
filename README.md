@@ -7,7 +7,7 @@ Dataset:
 
 This dataset contains information on default payments, demographic factors, credit
 data, history of payment, and bill statements of credit card clients in Taiwan from April
-2005 to September 2005.
+2005 to September 2005.Dataset link https://drive.google.com/file/d/1RqrwJqwDTeDq7sy1IWCL3Z473Z4LpwiF/view
 
 Approach:
 
@@ -29,7 +29,7 @@ Result:
 
 PAY_0,PAY_1,PAY_2,PAY_3,PAY_5 and PAY_6 as the most important feature to predict the defaulters.
 
-Technologies Used
+Technologies Used:
 
 Pandas
 
