@@ -17,7 +17,7 @@ learning algorithms that’s best fit for the above case.
 
 **Technical Aspect:**
 
-  1)Cleaning the data by deleting rows that has wrong values,deleting the columns which are not essential to predict the defaulters.)
+  1)Cleaning the data by deleting rows that has wrong values,deleting the columns which are not essential to predict the defaulters.
 
   2)Visualizing the data using various modules such as Matplotlib and Seaborn.
 
